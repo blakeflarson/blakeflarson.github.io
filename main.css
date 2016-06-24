@@ -1,0 +1,37 @@
+img{
+  width: 15%;
+}
+
+body {
+  background-color: #000000;
+}
+
+#wrapper{
+  width: 80%;
+  background-color: #ffffff;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+h1{
+  padding-top: 2%;
+  margin-left: 2%;
+  margin-bottom: 2;
+}
+
+.label{
+  font-size: 50%;
+  font-style: italic;
+}
+
+#nav{
+  background-color: #cce0ff;
+  padding: .5%;
+  text-align: right;
+}
+
+#content{
+  padding-left: 3%;
+  padding-right: 3%;
+  padding-bottom: 2%;
+}
