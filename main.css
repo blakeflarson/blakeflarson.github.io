@@ -32,9 +32,47 @@ h1{
   padding-bottom: 2%;
 }
 
+#monet{
+  float: right;
+  overflow: hidden;
+  width: 50%;
+}
+
+#pets{
+  float: left;
+  overflow: hidden;
+  width: 50%;
+}
+
 img{
  margin: .25%;
 }
 
-figure{
+
+/*VIDEO PAGE*/
+
+/*#videopage{
+  margin: 5%;
+  margin-top: 0%;
+}*/
+
+#selfreflection p{
+  float: right;
+  overflow: hidden;
+  width: 50%;
 }
+
+#selfreflection iframe{
+  float: left;
+  overflow: hidden;
+  width: 50%
+}
+
+
+
+
+
+
+
+
+
