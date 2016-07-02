@@ -56,16 +56,9 @@ img{
   margin-top: 0%;
 }*/
 
-#selfreflection p{
-  float: right;
-  overflow: hidden;
-  width: 50%;
-}
-
-#selfreflection iframe{
+#videopage p{
   float: left;
   overflow: hidden;
-  width: 50%
 }
 
 
