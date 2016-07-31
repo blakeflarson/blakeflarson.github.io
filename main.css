@@ -1,25 +1,37 @@
-#wrapper{
-  width: 80%;
-  background-color: #ffffff;
-  margin-left: 10%;
-  margin-right: 10%;
-  }
-}
-#nav{
-  background-color: #cce0ff;
-  padding: .5%;
-  text-align: right;
-}
-
 .jumbotron{
   position: relative;
   text-align: center;
+  margin-top: 15%;
+  margin-left: 25%;
+  margin-right: 25%;
+  background-color:transparent !important;
 }
 
-.container{
-  position: relative;
+.jumbotron h1{
+  color: #fff;
 }
 
+.jumbotron p{
+  color: #fff;
+}
+
+.darkBG{
+  background-color: #999;
+}
+
+.darkerBG{
+  background-color: #666;
+}
+
+.darkestBG{
+  background-color: #333;
+}
+
+#photography img{
+  width: 175px;
+  height: auto;
+  margin: 0.5%;
+}
 
 
 
